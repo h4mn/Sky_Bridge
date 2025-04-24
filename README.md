@@ -40,12 +40,19 @@ Desenvolvido em parceria com humanos curiosos.
 
 ### Roadmap ✨
 
+#### 🔌 Integrações e Plataformas
 - [ ] Conectar novos módulos de automação
-- [ ] Expor docs via FastAPI Swagger
 - [ ] Integrar com sistemas externos (Jira, Notion...)
 - [ ] Integração com Discord para notificações dos changelogs
-- [ ] Arquitetura de módulos para extensibilidade
+
+#### 🧠 Experiência da Sky
 - [ ] Comandos para manipular commits, branches e PRs via SkyBridge
+- [ ] Padronizar fluxo: issue → PR → tag, com changelog e release automáticos
+
+#### 🧱 Estrutura e Arquitetura
+- [ ] Arquitetura de módulos para extensibilidade
+- [ ] Expor docs via FastAPI Swagger
+
 
 ## 📖 Documentação
 
