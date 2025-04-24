@@ -10,32 +10,34 @@ Segue [SemVer](https://semver.org/lang/pt-BR/), com separação entre mudanças 
 
 ## [0.1.0] - 2025.04.24
 
-### ✨ Adicionado
+### 🔁 Mudanças
+
+#### ✨ Adicionado
 - ☁️ Badge “made with Sky” no README
 - 🌉 Padronização de Chagelog
 
-### ♻️ Alterado
+#### ♻️ Alterado
 - 🎨 Refinado cabeçalho visual com badges
 
-### 🧪 Corrigido
+#### 🧪 Corrigido
 - N/A
 
-### 🧪 Removido
+#### 🧪 Removido
 - N/A
 
-### 🧪 Segurança
+#### 🧪 Segurança
 - N/A
 
-## 📦 Dependências
+### 📦 Dependências
 - 📦 Adicionada `shields.io` para geração de badges
 
-## 📄 Interno
+### 📄 Interno
 - 🧹 Organização de estrutura de pastas
 - 🧪 Setup inicial de testes
 - 🔧 Criado `README.md` e `LICENSE`
 - 🛠️ Setup base do repositório público
 
-## 📖 Documentação
+### 📖 Documentação
 - 🆕 Criado `README.md` com visão geral do projeto
 - 🧭 Adicionado `VERSIONS.csv` como índice de releases
 - 📓 Estruturado `CHANGELOG.md` com seções padronizadas
