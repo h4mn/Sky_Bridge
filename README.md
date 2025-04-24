@@ -38,9 +38,17 @@ Desenvolvido em parceria com humanos curiosos.
 - 🪄 Executa ações com contexto e intenção
 - 🧬 Aprende e evolui com o uso
 
-
 ### Roadmap ✨
 
 - [ ] Conectar novos módulos de automação
 - [ ] Expor docs via FastAPI Swagger
 - [ ] Integrar com sistemas externos (Jira, Notion...)
+- [ ] Integração com Discord para notificações dos changelogs
+- [ ] Arquitetura de módulos para extensibilidade
+- [ ] Comandos para manipular commits, branches e PRs via SkyBridge
+
+## 📖 Documentação
+
+Para visão completa do projeto, estrutura e guias:
+
+[![SkyBook](https://img.shields.io/badge/docs-SkyBook-blueviolet?style=for-the-badge&logo=bookstack)](./docs/index.md)
