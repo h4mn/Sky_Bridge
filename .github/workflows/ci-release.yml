@@ -20,4 +20,7 @@ jobs:
       - name: Install tools
         run: pip install python-semantic-release commitizen
       - name: Publish release
-        run: semantic-release publish
+        run: |
+          semantic-release changelog
+          semantic-release version
+          semantic-release publish
