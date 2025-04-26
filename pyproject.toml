@@ -1,0 +1,5 @@
+[tool.semantic_release]
+version_variable = "src/__init__.py:__version__"
+branch = "main"
+tag_format = "v{version}"
+initial_version = "0.1.0"
