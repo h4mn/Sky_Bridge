@@ -5,7 +5,7 @@ Bem-vinde ao centro de conhecimento da SkyBridge.
 ## 📚 Conteúdo Principal
 
 - [🏠 Voltar para o README](../README.md)
-- [📖 Introdução ao Projeto](./index.md#-sobre-a-skybridge)
+- [📖 Introdução ao Projeto](./index.md#sobre-a-skybridge)
 - [🛣️ Roadmap de Funcionalidades](./tarefas/index.md)
 - [📝 Histórico de Mudanças (Changelog)](./changelogs/CHANGELOG.md)
 - [🔧 Configurações e Setup (em breve)]()
@@ -17,7 +17,7 @@ Bem-vinde ao centro de conhecimento da SkyBridge.
 - [🛠️ Como Criar Novas Actions](./criar_actions.md)
 - [📜 Como Interpretar o Changelog](./interpretar_changelog.md)
 
-## 📍 Sobre a SkyBridge
+## Sobre a SkyBridge
 
 SkyBridge é o núcleo que conecta a Sky — uma assistente virtual em constante evolução — ao mundo real.
 
