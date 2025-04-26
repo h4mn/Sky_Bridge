@@ -1,6 +1,9 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-04-26)
+
+
 ## v0.2.0 (2025-04-26)
 
 ### Chores
@@ -21,6 +24,9 @@
 
 - Atualiza comando de build para incluir geração de changelog e versão
   ([`82d29c9`](https://github.com/h4mn/Sky_Bridge/commit/82d29c911ad15f13b73f8519d0159b5ab58d9be1))
+
+- Primeiro changelog
+  ([`940b3c4`](https://github.com/h4mn/Sky_Bridge/commit/940b3c4783681f5710043b0ee7ffa900e9cffff1))
 
 
 ## v0.1.0 (2025-04-26)
