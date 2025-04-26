@@ -3,3 +3,5 @@ pytest==7.4.3
 black==23.11.0
 flake8==6.1.0STDIN
 python-semantic-release==9.21.0
+STDIN
+commitizen==4.6.0

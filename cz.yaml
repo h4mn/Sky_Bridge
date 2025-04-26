@@ -1,0 +1,35 @@
+commitizen:
+  name: cz_conventional_commits
+  tag_format: v$version
+  version: 0.3.0
+  bump_map:
+    feat: MINOR
+    fix: PATCH
+    chore: PATCH
+    ci: PATCH
+    refactor: PATCH
+    perf: PATCH
+    style: NONE
+    docs: NONE
+  changelog:
+    exclude_types:
+      - style
+      - docs
+    include_types:
+      - feat
+      - fix
+      - chore
+      - ci
+      - refactor
+  change_type_order:
+    - feat
+    - fix
+    - chore
+    - ci
+    - refactor
+  change_type_map:
+    feat: ✨ Recursos
+    fix: 🐛 Correções
+    chore: 🛠️ Melhorias Internas
+    ci: 🛠️ Melhorias Internas
+    refactor: 🛠️ Melhorias Internas
