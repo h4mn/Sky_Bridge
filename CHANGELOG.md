@@ -1,6 +1,29 @@
 # CHANGELOG
 
 
+## v0.3.1 (2025-04-26)
+
+### Bug Fixes
+
+- **teste**: Adiciona teste de nova release fix pra verificar atualização do changelog
+  ([`100d565`](https://github.com/h4mn/Sky_Bridge/commit/100d565ae560bb08b3f20e4c18fbba5aecaa1c37))
+
+### Continuous Integration
+
+- **commitizen**: Adiciona configuração cz.yml e tarefas relacionadas
+  ([`31a4cc6`](https://github.com/h4mn/Sky_Bridge/commit/31a4cc6074d6382bcf8cf0f1691f9867e011adaf))
+
+### Documentation
+
+- Adiciona tarefas modelo e plano de implementação de integração contínua
+  ([`7d04073`](https://github.com/h4mn/Sky_Bridge/commit/7d04073fc66f8a0c872e18961b7b7ec4f8105561))
+
+- **guia**: Adiciona guias iniciais e atualiza indice
+  ([`cc814c5`](https://github.com/h4mn/Sky_Bridge/commit/cc814c529cde57bab972418b962ca931a2c296f5))
+
+Sim
+
+
 ## v0.3.0 (2025-04-26)
 
 
