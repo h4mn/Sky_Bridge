@@ -1,4 +1,17 @@
-[tool.semantic_release]
+[project]
+name = "skybridge"
+version = "0.1.0"
+description = "Sky Bridge project"
+requires-python = ">=3.8"
+dependencies = [
+    "pytest==7.4.3",
+    "black==23.11.0",
+    "flake8==6.1.0",
+    "python-semantic-release==9.21.0",
+    "commitizen==4.6.0"
+]
+
+[tool.semantic-release]
 version_variable = "src/__init__.py:__version__"
 branch = "main"
 tag_format = "v{version}"
